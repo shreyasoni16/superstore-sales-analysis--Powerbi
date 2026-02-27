@@ -79,5 +79,4 @@ Provides a single interactive dashboard for executives and analysts to quickly i
 
 6. Screenshots / Demos
    the dashboard looks like
-   example:https://github.com/shreyasoni16/superstore-sales-analysis--Powerbi/blob/main/Dashboard%20preview.png
-
+   example:<img width="1267" height="689" alt="Dashboard preview" src="https://github.com/user-attachments/assets/2555e9b8-31c7-4b10-a1cf-b617826bb977" />
