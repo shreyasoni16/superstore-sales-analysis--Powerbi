@@ -8,7 +8,7 @@ The purpose of this project is to analyze the Superstore sales dataset and creat
 
 3. Tech Stack
 
- The dashboard was built using the following tools and technologies:
+The dashboard was built using the following tools and technologies:
  
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
@@ -78,6 +78,6 @@ Monitor monthly and yearly sales trends to support forecasting, growth planning,
 Provides a single interactive dashboard for executives and analysts to quickly identify opportunities, risks, and performance gaps.
 
 6. Screenshots / Demos
-    the dashboard looks like
+   the dashboard looks like
    example:https://github.com/shreyasoni16/superstore-sales-analysis--Powerbi/blob/main/Dashboard%20preview.png
 
